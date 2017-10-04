@@ -6,6 +6,11 @@
     font-family: 'Oswald', sans-serif;
 }
 
+body {
+    max-width: 1400px;
+    min-width: 1400px;
+}
+
 .logo {
     font-size: 100px;
 }
@@ -52,5 +57,58 @@ nav ul li {
 
 .first-logo {
     color: #fff;
+    padding-right: 600px;
+    margin-top: -50px;
+}
+
+/*About*/
+
+.about {
+    background-color: #f9f9f9;
+}
+
+.about-title {
+    font-size: 90px;
+    color: #fff;
+    margin-top: -350px;
+    padding-left: 500px;
+    z-index: 100;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.about-lorem {
+    background-color: #fff;
+    position: relative;
+    width: 20vw;
+    margin-left: 450px;
+}
+
+.about-lorem-heading {
+    padding-top: 20px;
+    padding-left: 50px;
+    text-transform: uppercase;
+}
+
+.about-lorem-text {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 12px;
+}
+
+.about-lorem-smalltext {
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.signature-pic {
+    width: 25%;
+    height: auto;
+    position: absolute;
+    top: 450px;
+    left: 270px
 }
 
