@@ -6,6 +6,10 @@
     font-family: 'Oswald', sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .logo {
     font-size: 100px;
 }
@@ -170,4 +174,36 @@ nav ul li {
     position: relative;
     text-transform: uppercase;
     bottom: 50px;
+}
+
+.blog-button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-blog-text {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.blog-button button {
+    border: none;
+    background-color: #000;
+    width: 200px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-left: 450px;
+}
+
+.social-all {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.social-all img {
+    width: 400px;
+    height: 300px;
 }
