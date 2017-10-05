@@ -229,6 +229,11 @@ nav ul li {
 
 /*Social*/
 
+.social {
+    background-color: #f9f9f9;
+    padding-bottom: 150px;
+}
+
 .hashtag {
     text-align: center;
     font-size: 30px;
