@@ -207,3 +207,86 @@ nav ul li {
     width: 400px;
     height: 300px;
 }
+
+.inner-text {
+    background-color: #fff;
+    margin-top: -5px;
+    padding: 10px;
+}
+
+.inner-text h4 {
+    text-transform: uppercase;
+}
+
+.date-arrow {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.date-arrow p {
+    padding-right: 40px;
+}
+
+/*Social*/
+
+.hashtag {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 100;
+}
+
+.follow-me {
+    text-align: center;
+    font-family: 'Homemade Apple', cursive;
+    position: relative;
+    z-index: 90;
+    text-transform: capitalize;
+    color: gray;
+    font-size: 40px;
+    bottom: 35px;
+}
+
+.car-pic {
+    width: 25%;
+    height: 100% auto;
+    position: relative;
+}
+
+.one {
+    left: 320px;
+    z-index: 100;
+}
+
+.two {
+    left: 450px;
+    z-index: 99;
+}
+
+.three {
+    top: 200px;
+    left: 150px;
+    z-index: 100;
+}
+
+.four {
+    bottom : 40px;
+    left: 70px;
+    z-index: 80;
+}
+
+.five {
+    left: 175px;
+    bottom: 120px;
+    z-index: 110;
+}
+
+.six {
+    right: 350px;
+    top: 50px;
+    z-index: 90;
+}
+
+
