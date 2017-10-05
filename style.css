@@ -294,4 +294,48 @@ nav ul li {
     z-index: 90;
 }
 
+/*Subscribe*/
+
+.subscribe {
+    background-color: #232b2b;
+}
+
+.subscribe h2 {
+    font-size: 40px;
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.submit-form {
+    display: flex;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.first-name {
+    background-color: #232b2b;
+    color: #fff;
+    text-transform: capitalize;
+    border-bottom: 2px solid #fff;
+    padding-right: 60px;
+}
+
+.last-name {
+    margin-left: 50px;
+    background-color: #232b2b;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    text-transform: capitalize;
+    padding-right: 60px;
+}
+
+.subscribe-arrow {
+    color: #fff;
+    padding-left: 150px;
+}
+
 
