@@ -338,4 +338,80 @@ nav ul li {
     padding-left: 150px;
 }
 
+/*footer*/
+
+.footer {
+    background-color: black;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    border-bottom: 3px solid #232b2b;
+    padding-bottom: 50px;
+}
+
+.hire-me {
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.footer-list {
+    list-style-type: none;
+    padding-top: 50px;
+}
+
+.footer-bold {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.footer-light {
+    color: #dcdcdc;
+    font-size: 15px;
+}
+
+.connect-icons {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.connect-title {
+    text-transform: uppercase;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.icon-style {
+   border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    background-size: 30px;
+    text-decoration: none;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.icon-style i {
+    font-size: 20px;
+    align-items: center;
+}
+
+.final-text {
+    text-align: left;
+    color: #dcdcdc;
+    padding: 20px;
+}
+
 
