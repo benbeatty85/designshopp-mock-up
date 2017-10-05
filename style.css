@@ -267,10 +267,10 @@ nav ul li {
 }
 
 .animate-one {
-    transform: translate(-50px,-50px);
-    -webkit-transform: translate(-50px,-50px);
-    -o-transform: translate(-50px,-50px); 
-    -moz-transform: translate(-50px,-50px);
+    transform: translate(-200px,-200px);
+    -webkit-transform: translate(-200px,-200px);
+    -o-transform: translate(-200px,-200px); 
+    -moz-transform: translate(-200px,-200px);
     transition: all 2s ease-in-out;
     -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 2s ease-in-out; /** Firefox **/
@@ -278,10 +278,10 @@ nav ul li {
 }
 
 .animate-two {
-    transform: translate(50px,50px);
-    -webkit-transform: translate(50px,50px);
-    -o-transform: translate(50px,50px); 
-    -moz-transform: translate(50px,50px);
+    transform: translate(-300px,-30px);
+    -webkit-transform: translate(-300px,-30px);
+    -o-transform: translate(-300px,-30px); 
+    -moz-transform: translate(-300px,-30px);
     transition: all 3s ease-in-out;
     -webkit-transition: all 3s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 3s ease-in-out; /** Firefox **/
@@ -289,10 +289,10 @@ nav ul li {
 }
 
 .animate-three {
-    transform: translate(-50px,-50px);
-    -webkit-transform: translate(-50px,-50px);
-    -o-transform: translate(-50px,-50px); 
-    -moz-transform: translate(-50px,-50px);
+    transform: translate(500px,-90px);
+    -webkit-transform: translate(500px,-90px);
+    -o-transform: translate(500px,-90px); 
+    -moz-transform: translate(500px,-90px);
     transition: all 2s ease-in-out;
     -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 2s ease-in-out; /** Firefox **/
@@ -300,10 +300,10 @@ nav ul li {
 }
 
 .animate-four {
-    transform: translate(200px,-200px);
-    -webkit-transform: translate(200px,0px);
-    -o-transform: translate(200px,0px); 
-    -moz-transform: translate(200px,0px);
+    transform: translate(400px,150px);
+    -webkit-transform: translate(400px,150px);
+    -o-transform: translate(400px,150px); 
+    -moz-transform: translate(400px,150px);
     transition: all 2s ease-in-out;
     -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 2s ease-in-out; /** Firefox **/
@@ -311,10 +311,10 @@ nav ul li {
 }
 
 .animate-five {
-    transform: translate(-250px,0px);
-    -webkit-transform: translate(-200px,0px);
-    -o-transform: translate(-200px,0px); 
-    -moz-transform: translate(-200px,0px);
+    transform: translate(-250px,40px);
+    -webkit-transform: translate(-250px,40px);
+    -o-transform: translate(-250px,40px); 
+    -moz-transform: translate(-250px,40px);
     transition: all 3s ease-in-out;
     -webkit-transition: all 3s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 3s ease-in-out; /** Firefox **/
@@ -322,10 +322,10 @@ nav ul li {
 }
 
 .animate-six {
-    transform: translate(-250px,0px);
-    -webkit-transform: translate(-200px,0px);
-    -o-transform: translate(-200px,0px); 
-    -moz-transform: translate(-200px,0px);
+    transform: translate(-200px,-50px);
+    -webkit-transform: translate(-200px,-50px);
+    -o-transform: translate(-200px,-50px); 
+    -moz-transform: translate(-200px,-50px);
     transition: all 3s ease-in-out;
     -webkit-transition: all 3s ease-in-out; /** Chrome & Safari **/
     -moz-transition: all 3s ease-in-out; /** Firefox **/
